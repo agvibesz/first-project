@@ -1,0 +1,17 @@
+*{
+    margin: 8;
+    padding: 0;
+}
+.mod{
+    background-color: rgb(5, 243, 69);
+    border-radius: 5px;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    transition: 0.3s;
+    padding: 5px;
+    margin: 30px 10px 10px 10px;
+}
+.mod:hover{
+    background-color: rgba(91, 235, 130, 0.993);
+
+}

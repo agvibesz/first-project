@@ -1,0 +1,30 @@
+*{
+    margin: 6;
+    padding: 0;
+}
+.mod{
+    background-color: rgb(157, 119, 206);
+    border-radius: 5px;
+    color: rgb(3, 0, 1);
+    text-decoration: none;
+    transition: 0.3s;
+    padding: 5px;
+    margin: 30px 10px 10px 10px;
+}
+.mod:hover{
+    background-color: rgba(195, 174, 225, 0.993);
+
+}
+
+img {
+    display: block; /* Convertit l'image en élément de bloc */
+    margin-left: auto; /* Centre horizontalement */
+    margin-right: auto; /* Centre horizontalement */
+    width: 300px; /* Définit la largeur à 300 pixels */
+    height: 300px; /* Définit la hauteur à 200 pixels */
+    
+}
+
+header{
+    background-color: rgb(130, 213, 246);
+}

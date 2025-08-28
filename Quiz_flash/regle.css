@@ -1,0 +1,17 @@
+*{
+    margin: 6;
+    padding: 0;
+}
+.modA{
+    background-color: rgb(4, 240, 240);
+    border-radius: 5px;
+    color: rgb(3, 0, 1);
+    text-decoration: none;
+    transition: 0.3s;
+    padding: 5px;
+    margin: 30px 10px 10px 10px;
+}
+.modA:hover{
+    background-color: rgba(124, 238, 244, 0.993);
+
+}
